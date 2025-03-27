@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    background-color: rgb(202, 202, 202);
+    border: gray solid 1px;
+    border-radius: 20px;
+    padding: 30px;
+
+}
+
